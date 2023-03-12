@@ -1,0 +1,24 @@
+{
+	"songs": [
+		{
+			"name": "Kindle",
+			"opponent": "",
+			"colors": [
+				165,
+				0,
+				77
+			]
+		}
+	],
+	"attachedImage": "week1",
+	"storyName": "memes week",
+	"characters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"startsLocked": false,
+	"hideOnStory": false,
+	"hideOnFreeplay": false,
+	"hideUntilUnlocked": false
+}

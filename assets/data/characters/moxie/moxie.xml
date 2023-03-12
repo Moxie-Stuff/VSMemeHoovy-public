@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="moxie.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ile0000" x="0" y="0" width="237" height="260" frameX="-1" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0001" x="237" y="0" width="237" height="260" frameX="0" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0002" x="474" y="0" width="230" height="260" frameX="-3" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0003" x="704" y="0" width="231" height="260" frameX="-1" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0004" x="0" y="260" width="230" height="260" frameX="0" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0005" x="230" y="260" width="220" height="260" frameX="-3" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0006" x="230" y="260" width="220" height="260" frameX="-3" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0007" x="450" y="260" width="221" height="260" frameX="-3" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0008" x="671" y="260" width="221" height="260" frameX="-3" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0009" x="671" y="260" width="221" height="260" frameX="-3" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0010" x="671" y="260" width="221" height="260" frameX="-3" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0011" x="671" y="260" width="221" height="260" frameX="-3" frameY="0" frameWidth="238" frameHeight="260"/>
+	<SubTexture name="ile0012" x="671" y="260" width="221" height="260" frameX="-3" frameY="0" frameWidth="238" frameHeight="260"/>
+</TextureAtlas>
